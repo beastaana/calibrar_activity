@@ -1,0 +1,1 @@
+enum NavigationBarItem { reddit, rickAndMorty }
